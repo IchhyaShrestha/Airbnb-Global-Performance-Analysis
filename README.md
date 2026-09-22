@@ -9,7 +9,8 @@ The project focuses on transforming Airbnb marketplace data into business insigh
 
 ### Page 1 — Global Performance & Growth
 
-![Global Airbnb Performance Dashboard](images/dashboard-overview.png)
+![Global Airbnb Performance Dashboard]<img width="451" height="335" alt="image" src="https://github.com/user-attachments/assets/0ddb11d4-8378-4f93-85f3-c53e1e5900e0" />
+
 
 This page provides an overview of Airbnb's marketplace growth and highlights changes in new listings over time.
 
@@ -27,7 +28,8 @@ Key areas analyzed:
 
 ### Page 2 — Market Share, Pricing & Ratings
 
-![Airbnb Market Share Dashboard](images/market-share-ratings.png)
+![Airbnb Market Share Dashboard]<img width="451" height="333" alt="image" src="https://github.com/user-attachments/assets/1ca1f7b6-9cef-4833-8a6c-1a475c76950e" />
+
 
 This page examines differences across Airbnb's largest markets.
 
@@ -45,7 +47,8 @@ Key areas analyzed:
 
 ### Page 3 — Customer Behavior, Seasonality & Trust
 
-![Airbnb Customer Behavior Dashboard](images/customer-behavior-trust.png)
+![Airbnb Customer Behavior Dashboard]<img width="451" height="334" alt="image" src="https://github.com/user-attachments/assets/3d612b47-7077-4325-ad18-ccba7c2afb3b" />
+
 
 This page analyzes customer review behavior, seasonal demand patterns, and host verification.
 
