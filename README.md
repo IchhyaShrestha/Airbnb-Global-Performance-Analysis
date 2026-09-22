@@ -46,12 +46,12 @@ Key areas analyzed:
 
 ---
 
-### Page 3 — Customer Behavior, Seasonality & Trust
+### Page 3 — Review Frequency, Seasonality & Trust
 
-<img width="451" height="334" alt="image" src="https://github.com/user-attachments/assets/3d612b47-7077-4325-ad18-ccba7c2afb3b" />
+<img width="449" height="335" alt="image" src="https://github.com/user-attachments/assets/03cb2c23-3a12-4f75-b43c-766f7ab6c86b" />
 
 
-This page analyzes customer review behavior, seasonal demand patterns, and host verification.
+This page analyzes customer review frequency, seasonal demand patterns, and host verification.
 
 Key areas analyzed:
 
