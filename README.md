@@ -22,7 +22,7 @@ Key areas analyzed:
 - Review volume
 - New listing growth over time
 - Marketplace lifecycle stages
-- Changes in entire-place, private-room, and shared-room listings
+- Changes in entire place, hotel room, private room, and shared room listings
 
 ---
 
