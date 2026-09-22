@@ -41,6 +41,7 @@ Key areas analyzed:
 - Cumulative market share
 - Average pricing by room type
 - City-level ratings
+- Overall ratings and detailed ratings
 - Rating dimensions including accuracy, cleanliness, communication, location, and value
 
 ---
