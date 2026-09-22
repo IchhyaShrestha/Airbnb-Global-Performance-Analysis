@@ -217,18 +217,3 @@ These indicators can be useful when studying trust and transparency within a pee
 - Combination charts
 - Interactive filters
 
----
-
-# 🧮 DAX & Analytical Techniques
-
-The dashboard uses DAX to create calculated metrics and analytical views, including:
-
-- Reviews per Reviewer
-- Cumulative Reviewer Analysis
-- Cumulative Market Share
-- City Ranking
-- Review and Listing aggregations
-- Conditional calculations
-- Context-aware calculations using `CALCULATE`
-- Filter context manipulation using `ALLEXCEPT`
-- Dynamic ranking and cumulative analysis
